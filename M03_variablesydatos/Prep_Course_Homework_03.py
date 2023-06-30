@@ -13,7 +13,9 @@
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
-
+n = "Alejandro"
+n2 = "Alejandr\'o"  # se le agrega la barra izquierda para cuando tenes una comilla en la variable
+print (n2)
 
 
 
